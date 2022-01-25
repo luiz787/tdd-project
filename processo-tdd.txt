@@ -1,0 +1,10 @@
+O processo TDD com testes funcionais e testes de unidade é composto
+por três etapas:
+1: escrever o teste funcional
+2: escrever código mínimo para que o teste funcional passe
+3: refatoração.
+
+A etapa 2, por sua vez, é o mesmo ciclo, só que com testes unitários.
+Quando um ciclo macro termina, ou seja, o teste funcional escrito no início
+passa, podem ser realizadas novas refatorações, e o ciclo retorna para a
+escrita de um novo teste funcional para a próxima funcionalidade.
