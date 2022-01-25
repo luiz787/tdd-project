@@ -1,0 +1,7 @@
+Testes funcionais são voltados para o comportamento
+percebido pelo usuário, ao passo que testes de unidade
+focam no ponto de vista interno do sistema.
+
+Testes funcionais testam uma grande parte do sistema,
+envolvendo várias camadas, enquanto testes unitários são
+focados em pequenas partes.
